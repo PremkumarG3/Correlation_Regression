@@ -57,9 +57,8 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 
 ```
-
-
-# Result
+# Output 
 ![Screenshot 2024-04-24 084356](https://github.com/PremkumarG3/Correlation_Regression/assets/138955646/6c006460-41d2-4e0a-b163-415e9ae6391a)
 
-# Output 
+# Result:
+The Program for Correlation and regression for data analysis was executed successfully.
